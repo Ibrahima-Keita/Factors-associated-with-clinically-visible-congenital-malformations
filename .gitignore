@@ -1,0 +1,28 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rproj.user/
+.Rproj.user
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# R Markdown
+*.utf8.md
+*.knit.md
+*.nb.html
+*.Rmd~
+
+# Results / figures
+*.html
+*.pdf
+*.docx
+*.png
+*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
